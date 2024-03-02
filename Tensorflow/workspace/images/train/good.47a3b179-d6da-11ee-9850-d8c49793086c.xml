@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>good.47a3b179-d6da-11ee-9850-d8c49793086c.jpg</filename>
+	<path>D:\things\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\good.47a3b179-d6da-11ee-9850-d8c49793086c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>133</ymin>
+			<xmax>373</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
